@@ -1,0 +1,17 @@
+Aula 3 atividade 6
+
+integrantes do grupo: Marcos Paulo
+
+1. parte dos processos são feitos manualmente.
+
+2. Carlos, o proprietario.
+
+3. pessoal da caixa, da produção e etc.
+
+4. Os funcionarios da caixa, produção e contabilidade.
+
+5. Automatizar e facilitar boa parte ou todos os processos.
+
+6. Investigar o congestionamento das filas, facilitar o acompanhamento de informações de vendas e organizar as informações utilizadas pela produção.
+
+7. Existe conexão com a internet no estabelecimento? O sistema precisará funcionar em dispositivos móveis? Quais são os horários de maior movimento?

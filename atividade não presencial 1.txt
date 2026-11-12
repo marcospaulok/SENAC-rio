@@ -1,0 +1,13 @@
+marcos paulo
+
+1. Indentifica e entende o problema e destrincha-o em objetivos a serem concluidos.
+
+2. sistema escolhido: Trello
+Qual problema esse sistema ajuda a resolver?: Ajuda a resolver problemas de organização, planejamento e acompanhamento de tarefas.
+Quem é o cliente?: Empresas, organizações, instituições e até pessoas físicas que precisam organizar tarefas, projetos e atividades.
+Quem são os usuários?: Estudantes e professores; Funcionários e colaboradores; Profissionais autônomos; etc
+Quais benefícios a solução proporciona?: permite organizar tarefas em quadros, listas e cartões, aumentando a produtividade e comunicação da equipe.
+
+3. ???
+
+4."Quais são as principais dificuldades que a padaria enfrenta atualmente no dia a dia?"
